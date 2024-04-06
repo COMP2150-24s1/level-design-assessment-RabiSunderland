@@ -3,17 +3,6 @@
 ### Name: [Rabi Attaii]
 ### Student number: [47180129] 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
 
