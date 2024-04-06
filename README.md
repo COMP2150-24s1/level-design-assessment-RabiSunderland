@@ -16,19 +16,25 @@ Example:
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+When designing the levels for the game I started simple and added platforms first before adding obstacles and enemies. I had to make sure that the movement for the area was solid. The first area of the game teaches the player the mechanics of the game through general playing. At the start I placed a couple of platforms to show that you can jump in the game. From there I split the path into two. One looks more daunting due to the spike and acid floor while the other looks a lot easier. If they chose the harder route, they would be rewarded with a weapon. Which they then must use to get to the teleporter. If they went for the easier route, they would end up getting the key, but missing the weapon. 
+Near the teleport to the 2nd area, I placed an enemy to show the player that they need a weapon to fight. If they still decide to continue to the next level without one, there’s a teleport they can find that’ll bring them back to area 1. The same was done with area 2. I feel this introduces all the main mechanics of the game in a straightforward manner. 
+
+![area one design](DocImages/areaone.png)
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+Area one was made to be easy but still includes moments of tension like with the enemy at the end and the acid floor. This makes the moments of relief in area one more common. Area two takes this tension and turns it up. There are more spikes, more enemies, the platforms have tighter timings to jump on, and there are more acid pools. This displays to the player that they must use what they learnt in the first area and start to master it if they want to complete the area. But there are still a few moments of relief. Getting the key, health packs, and reaching the teleport, all of these can be seen as tension relieving. I feel this makes the moments of relief much stronger for the player. Games like the original Resident Evil did this in the best possible way. And while I did not capture that, I feel it still makes the drama of the areas impactful. Most of the time this area is very intense as I was going for a more difficult platformer. 
+
+![area two design](DocImages/areatwo.png)
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+Originally, I had planned to place more enemies and environmental hazards, but it made the areas too difficult. So, I got rid of unnecessary things and unfair moments as I demo’d the game. By the end, this made my areas challenging while still being fair. Leading to much tighter level design. The timings for the platforms can be tight but are rewarding to pull off. If you try to rush, you end up being punished by missing the timing. 
+The enemies can attack you while you’re on a platform, but you can jump to them and eliminate them. There are spikes placed in various areas, but all of the jumps are possible. I made sure they were not too tight because otherwise it would get boring just failing the jump over and over. Controlling the challenge of the game is important because of that. I made sure that there was a way for the player to tackle each challenge without giving the enemies an unfair advantage. 
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+I made it so each area has a couple of different routes you can branch of to. Each route has something at the end to reward reaching it. One route would lead to the key, another would lead to a teleport to the next area, and the last would lead to a teleport to the previous area in case they missed something. I made sure there were teleports going to previous areas so that the player would not have to start all over just because they missed a key or weapon. It is up to the player to choose what route they feel like tackling first. And if they find it too challenging, they can come back and try again later. I also wanted to include switches or pressure plates that unlocked teleports as well, but I could not figure them out. 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
