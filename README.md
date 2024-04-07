@@ -83,6 +83,15 @@ Chompers are much more aggressive than spitters since they run after you rather 
 ## 4. Iterative Design (~400 words)
 
 
+Iterative design was used to build all of my areas. The areas were originally drawn on a couple of pieces of paper as well as a diagram. All of those are in section 3. To show how I wanted the areas to flow. I then put that into Unity without any tile mapping or editing. After playing the area a few times, I then corrected the placements for everything. Some platforms were too far or too small. Some enemies' attack ranges were too wide. Some platforms got in the way of others. Acid pools were not done yet. All of these were adjusted with each playtest I did. After that, I did all the tile mapping and then adjusted the prefabs once again to fit. Because of the tile mapping some of the platforms were blocked so I had to make them smaller or adjust placement. 
+
+![](DocImages/area2pretile.png)
+
+![](DocImages/area2posttile.png)
+
+I wanted to place and use pressure plates and switches to add puzzles to the design of the areas. Without puzzles, my design feels like it is lacking. If puzzles were added I could experiment more with enemy placement, drama, challenge, exploration, and reward. For example, area 3 feels like it lacks things you can do in it. I would have loved to make an encounter with respawnable enemies, a pressure plate, and a box. I would have made it so the enemies kept respawning in intervals while the player would have to find and push the box to the pressure plate. This would then unlock the encounter in the top left corner where you can get the key. 
+
+![](DocImages/area3.png)
 
 
 ## Generative AI Use Acknowledgement
