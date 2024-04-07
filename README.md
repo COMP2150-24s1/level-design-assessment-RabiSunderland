@@ -32,32 +32,32 @@ I made it so each area has a couple of different routes you can branch off to. E
 ### 2.1. Passthrough Platforms
 Passthrough platforms are the first elements introduced in my design. It was put there so that the player would know that they can jump in the game, and it is there to warm them up before getting to the challenging jumps. 
 
-(DocImages/PassthroughPlatforms.jpg)
+![](DocImages/PassthroughPlatforms.jpg)
 
 ### 2.2. Moving Platforms & Acid & Weapon Pickup (Gun) & Weapon Pickup (Staff) 
 The combination of these elements makes for a more thrilling encounter. It is the encounter right after the first one so it introduces the player to moving versions of the platforms they saw, an acid pool beneath them to show that missing the jump will hurt. And a weapon pick-up as a reward for making it through the jumps. I chose to place this here to show the player that good timing is necessary to finish these areas.
 
-(DocImages/MovingPlatforms&Acid&WeaponPickup(Gun)&WeaponPickup(Staff).jpg)
+![](DocImages/MovingPlatforms&Acid&WeaponPickup(Gun)&WeaponPickup(Staff).jpg)
 
 ### 2.3. Spikes & Keys
 Spikes were used similarly to the acid in the previous encounter. It is used to punish impatient players as well as to show the player that where they jump on platforms is also important. Over or under-jumping can lead to landing on spikes. The key was placed beside spikes because of that. It is there to reward players who made the tighter jump and did not overjump. 
 
-(DocImages/Spikes&Keys.jpg)
+![](DocImages/Spikes&Keys.jpg)
 
 ### 2.4. Spitters
 Spitters are the last encounter in the first area of the game. They are there to make the player use the weapon they got after one of the first encounters. If they go the other way and get the key first, they will be missing the weapon, so the enemy is there to also remind the player that they need to get a weapon. If they do not have one at that point, they can go back and look for it. 
 
-(DocImages/Spitters.jpg)
+![](DocImages/Spitters.jpg)
 
 ### 2.5. Checkpoints & Health Pickups
 A checkpoint is placed at the start of each area. I did this because the areas are fairly small and do not need multiple checkpoints per area. Placing it at the start also allows the player to try a different route or tackle an encounter differently if they feel what they are trying to do is not working. The health pick-up was placed as a risk-reward here. The spikes make the jumps tight, but they will be rewarded with a health point for pulling it off. 
 
-(DocImages/Checkpoints&HealthPickups.jpg)
+![](DocImages/Checkpoints&HealthPickups.jpg)
 
 ### 2.6. Chompers
 Chompers are much more aggressive than spitters since they run after you rather than sitting still and spitting attacks in a rhythm. The encounter I’ve shown is a rather difficult one where they need to make a series of jumps avoiding spikes and acid, then the player has to deal with both a chomper and spitter. I did this because it is the final encounter in area 2 and tests all the gameplay mechanics they had been introduced to at that point.
 
-(DocImages/Chompers.jpg)
+![](DocImages/Chompers.jpg)
 
 
 ## 3. Spatiotemporal Design
@@ -67,15 +67,15 @@ Chompers are much more aggressive than spitters since they run after you rather 
 
 ### 3.2. Level Map – Section 1
 
-(DocImages/LevelMapSection1.jpg)
+![](DocImages/LevelMapSection1.jpg)
 
 ### 3.3. Level Map – Section 2
 
-(DocImages/LevelMapSection2.jpg)
+![](DocImages/LevelMapSection2.jpg)
 
 ### 3.4. Level Map – Section 3
 
-(DocImages/LevelMapSection3.jpg)
+![](DocImages/LevelMapSection3.jpg)
 
 
 ## 4. Iterative Design (~400 words)
