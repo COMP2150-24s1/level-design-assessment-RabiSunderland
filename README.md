@@ -65,6 +65,8 @@ Chompers are much more aggressive than spitters since they run after you rather 
  
 ### 3.1. Molecule Diagram
 
+![](DocImages/MoleculeDiagram.png)
+
 ### 3.2. Level Map – Section 1
 
 ![](DocImages/LevelMapSection1.jpg)
@@ -85,8 +87,6 @@ Chompers are much more aggressive than spitters since they run after you rather 
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
 
 
 ### Tool Used: Grammarly
