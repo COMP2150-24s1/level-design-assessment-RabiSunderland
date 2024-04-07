@@ -89,7 +89,7 @@ Iterative design was used to build all of my areas. The areas were originally dr
 
 ![](DocImages/area2posttile.png)
 
-I wanted to place and use pressure plates and switches to add puzzles to the design of the areas. Without puzzles, my design feels like it is lacking. If puzzles were added I could experiment more with enemy placement, drama, challenge, exploration, and reward. For example, area 3 feels like it lacks things you can do in it. I would have loved to make an encounter with respawnable enemies, a pressure plate, and a box. I would have made it so the enemies kept respawning in intervals while the player would have to find and push the box to the pressure plate. This would then unlock the encounter in the top left corner where you can get the key. 
+I wanted to place and use pressure plates and switches to add puzzles to the design of the areas. Without puzzles, my design feels like it is lacking. You can see this with the overall design of the areas. They mainly focus on jumping and timing and lack much-needed intellectual thinking. If puzzles were added I could experiment more with enemy placement, drama, challenge, exploration, and reward. While the areas have the necessary challenge, it feels like it really lacks exploration. There are routes you can take but almost all of them lead to items you need to continue rather than cool distractions. For example, area 3 feels like it lacks things you can do in it. I would have loved to make an encounter with respawnable enemies, a pressure plate, and a box. I would have made it so the enemies kept respawning in intervals while the player would have to find and push the box to the pressure plate. This would then unlock the encounter in the top left corner where you can get the key. 
 
 ![](DocImages/area3.png)
 
@@ -103,6 +103,6 @@ I wanted to place and use pressure plates and switches to add puzzles to the des
 
 **Evidence Attached?** "I feel this introduces all the main mechanics of the game in a straightforward manner." was changed to "I feel this introduces all the main mechanics of the game straightforwardly."
 
-**Additional Notes:** I used Grammarly to correct some tense issues as well as spotting errors in my spelling or how a sentence reads. Not all corrections were used since a number of them were poor choices. 
+**Additional Notes:** I used Grammarly to correct some tense issues as well as spotting errors in my spelling or how a sentence read. Not all corrections were used since a number of them were poor choices. 
 
 
